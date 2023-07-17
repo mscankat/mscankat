@@ -1,6 +1,7 @@
 ## Hi there, I'm Mustafa 👋 
 I'm a passionate developer who loves coding and building things.
 
+
 ## Tech Stack
 
 ![Static Badge](https://img.shields.io/badge/-react-black?style=for-the-badge&logo=react)
@@ -10,7 +11,7 @@ I'm a passionate developer who loves coding and building things.
 ![Static Badge](https://img.shields.io/badge/-html-black?style=for-the-badge&logo=html5)
 ![Static Badge](https://img.shields.io/badge/-css-black?style=for-the-badge&logo=css3)
 
-## Some of my projects
+## Some of my projects ([my portfolio](https://mscankat.vercel.app))
 
 ### News App [![Static Badge](https://img.shields.io/badge/-demo-green)](https://news-app-msc.vercel.app) [![Static Badge](https://img.shields.io/badge/-source-red)](https://github.com/mscankat/news-app)
 
